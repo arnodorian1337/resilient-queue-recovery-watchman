@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	worktree = worktree
+	fsmonitor = ../hooks/fsmonitor-watchman
+[user]
+	name = Queue Fixture
+	email = fixture@example.invalid
